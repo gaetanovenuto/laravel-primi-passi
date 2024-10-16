@@ -8,10 +8,10 @@
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-    <head>
+    <header>
         <h1>
             Hello Laravel!
         </h1>
-    </head>
+    </header>
 </body>
 </html>
